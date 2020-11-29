@@ -4,7 +4,6 @@ using namespace std;
 /*
 * 3. Pedir al usuario que introduzca un número por teclado y después mostrarlo por pantalla.
 * 
-*
 */
 int main()
 {
